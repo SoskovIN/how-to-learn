@@ -1,0 +1,11 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  grid-template-columns: repeat(3, 33.33%);
+  grid-gap: 0 100px;
+  width: 920px;
+  margin: 0 auto;
+  padding: 0;
+  list-style-type: none;
+}
