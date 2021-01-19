@@ -1,6 +1,6 @@
 .two-columns__brief {
   position: relative;
-  width: 175px;
+  max-width: 175px;
   margin: 0;
   line-height: 1.2;
   font-size: 18px;
